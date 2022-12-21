@@ -1,1 +1,1 @@
-0x06-pointers_arrays_strings
+This directory will be used for all pointers, arrays and strings projects
