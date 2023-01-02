@@ -1,1 +1,1 @@
-0x07-pointers_arrays_strings
+This repo contains all 0x07 pointers, arrays and strings
