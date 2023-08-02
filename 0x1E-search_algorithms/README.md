@@ -1,2 +1,1 @@
-0x1E-search_algorithms
-project
+0x1E. C - Search Algorithms
